@@ -1,6 +1,7 @@
 #countries{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    text-align: center;
 }
 .countries{
     background-color: bisque;
